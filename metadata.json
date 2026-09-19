@@ -1,0 +1,6 @@
+{
+  "name": "QA Agent Hub",
+  "description": "Enterprise autonomous quality engineering platform featuring SauceDemo content scraping, Playwright headless test traces, issue defect registry, and visual bug review pins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
